@@ -12,7 +12,7 @@ _   _      _ _        __        __         _     _
 
 Hello there! I'm Ajay Pawar, a passionate developer with a love for clean code and innovative solutions. Welcome to my GitHub profile!
 
-### 🚀 What I Do
+### 🚀 What I Do.
 
 - 💻 Full-stack development
 - 🌐 Web applications
