@@ -32,7 +32,7 @@ Hello there! I'm Ajay Pawar, a passionate developer with a love for clean code a
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!
 
 ```
-Happy Coding! 👨‍💻
+Happy Coding! 👨‍💻👨‍💻
 ```
 
 
