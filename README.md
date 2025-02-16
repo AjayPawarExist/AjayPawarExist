@@ -19,6 +19,15 @@ Hello there! I'm Ajay Pawar, a passionate developer with a love for clean code a
 - 📱 Mobile app development
 - 🤖 Artificial Intelligence and Machine Learning enthusiast
 
+## 🚀 Open Source Contributions
+
+I actively contribute to open-source projects to improve my skills and help the community. Here are some of my contributions:
+
+- 🛠 Contributed to **[shadcn-ui]([https://github.com/repo-owner/repo-name](https://github.com/shadcn-ui/ui))**
+  - [PR #6575]([https://github.com/repo-owner/repo-name/pull/123](https://github.com/shadcn-ui/ui/pull/6575)) - Resolve bug causing `next build` command to fail.
+
+🔹 I’m always looking for more projects to contribute to! Feel free to suggest any interesting open-source initiatives.  
+
 ## 📈 GitHub Stats
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayPawarExist&show_icons=true&theme=radical)
