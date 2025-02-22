@@ -21,14 +21,14 @@
 ```typescript
 const ajay = {
   role: "Full Stack Developer",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  code: ["TypeScript", "JavaScript", "React", "Python"],
   technologies: {
     frontend: ["React", "Next.js", "TailwindCSS"],
-    backend: ["Node.js", "Express", "FastAPI"],
+    backend: ["Node", "Deno", "Express", "FastAPI"],
     mobile: ["React Native"],
     ai_ml: ["TensorFlow", "PyTorch"],
     database: ["MongoDB", "PostgreSQL"],
-    devOps: ["Docker", "AWS", "GitHub Actions"],
+    devOps: ["Docker", "AWS", "Azure", "GCP", "GitHub Actions"],
   },
   currentFocus: "Building scalable applications and contributing to open source",
 };
