@@ -142,12 +142,23 @@ const ajay = {
 
 <div align="center">
   <p>I'm always interested in collaborating on innovative projects and discussing new technologies!</p>
+
+  <a href="https://x.com/AjayPawarExist">
+    <img src="https://img.shields.io/badge/Follow_on_X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
   
+  <a href="mailto:contact@ajaypawar.me">
+    <img src="https://img.shields.io/badge/Contact_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/ajaypawarexist/">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <a href="https://orcid.org/0009-0000-7099-1047" target="orcid.widget" rel="me noopener noreferrer">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
 </div>
-
 <div align="center">
   
 ### Show some ❤️ by starring some repositories!
