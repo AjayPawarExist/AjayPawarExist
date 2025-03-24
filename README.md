@@ -141,6 +141,7 @@ const ajay = {
 ## 🤝 Let's Connect!
 
 <div align="center">
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
   <p>I'm always interested in collaborating on innovative projects and discussing new technologies!</p>
 
   <a href="https://x.com/AjayPawarExist">
