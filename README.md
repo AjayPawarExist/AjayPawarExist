@@ -1,13 +1,24 @@
 # <div align="center">👨‍💻 Ajay Pawar</div>
 
+</div>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6F47C1&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://www.linkedin.com/in/ajaypawarexist/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://x.com/AjayPawarExist"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://ajaypawar.me"><img src="https://img.shields.io/badge/-Portfolio-FF4088?style=flat-square&logo=Hugo&logoColor=white"/></a>
+<p align="center">
+  I'm always open to collaborating on exciting projects or discussing the future of technology. Feel free to reach out!
+  <br><br>
+  <a href="https://ajaypawar.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+   
+  <a href="https://x.com/AjayPawarExist" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   
+  <a href="mailto:contact@ajaypawar.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 </div>
@@ -20,17 +31,37 @@
 
 ```typescript
 const ajay = {
-  role: "Full Stack Developer",
-  code: ["TypeScript", "JavaScript", "React", "Python"],
-  technologies: {
-    frontend: ["React", "Next.js", "TailwindCSS"],
-    backend: ["Node", "Deno", "Express", "FastAPI"],
-    mobile: ["React Native"],
-    ai_ml: ["TensorFlow", "PyTorch"],
-    database: ["MongoDB", "PostgreSQL"],
-    devOps: ["Docker", "AWS", "Azure", "GCP", "GitHub Actions"],
-  },
-  currentFocus: "Building scalable applications and contributing to open source",
+  name: "Ajay Pawar",
+  title: "Full Stack Developer | SaaS Architect | Startup Machine",
+  tagline: "Turning caffeine into scalable systems since forever",
+
+  role: "Builder of things that actually work in production",
+
+  superPowers: [
+    "Shipping fast without breaking everything (most of the time)",
+    "Turning ideas into SaaS before others finish planning",
+    "Debugging at 3AM like a cyber ninja",
+    "Making servers cry but still survive"
+  ],
+
+  currentMission: "Building scalable SaaS platforms that don't collapse on launch day",
+
+  sideQuests: [
+    "Optimizing databases until they beg for mercy",
+    "Designing clean UI with enterprise vibes",
+    "Automating everything because manual work is illegal",
+    "Training custom AI models for fun"
+  ],
+
+  weakness: [
+    "Over-engineering just for fun",
+    "Starting new startup ideas at midnight",
+    "Cannot ignore a performance bottleneck"
+  ],
+
+  lifePhilosophy: "If it can be automated, it should be automated.",
+
+  status: "Deploying something... always"
 };
 ```
 
